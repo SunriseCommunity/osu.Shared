@@ -2,17 +2,18 @@
 
   <PropertyGroup>
     <TargetFrameworks>netstandard1.0;net20</TargetFrameworks>
-    <Version>1.0.3</Version>
-    <Authors>HoLLy</Authors>
+    <Version>1.0.4</Version>
+    <Authors>richardscull / HoLLy</Authors>
     <Product>osu.Shared</Product>
+    <PackageId>richardscull.osu.Shared</PackageId>
     <Description>Shared code to be used by osu!-related programs.</Description>
-    <Copyright>Copyright 2018</Copyright>
-    <PackageLicenseUrl>https://github.com/HoLLy-HaCKeR/osu.Shared/blob/master/LICENSE</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/HoLLy-HaCKeR/osu.Shared/</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/HoLLy-HaCKeR/osu.Shared/</RepositoryUrl>
+    <Copyright>Copyright 2026</Copyright>
+    <PackageLicenseUrl>https://github.com/SunriseCommunity/osu.Shared/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/SunriseCommunity/osu.Shared/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SunriseCommunity/osu.Shared/</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>osu! osu</PackageTags>
-    <PackageReleaseNotes>Fix bug in SerializationWriter.Write(string)</PackageReleaseNotes>
+    <PackageReleaseNotes>Add Mirror mod</PackageReleaseNotes>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
